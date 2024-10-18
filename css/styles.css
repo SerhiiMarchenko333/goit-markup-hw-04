@@ -62,6 +62,9 @@ button {
 .header-menu-link {
 padding: 24px 0;
 position: relative;
+}
+
+.header-menu-link.active {
     color: #404bbf;
 }
 
