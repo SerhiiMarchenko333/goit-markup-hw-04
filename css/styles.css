@@ -311,6 +311,7 @@ display: flex;
 }
 
 .social-links-items {
+    width: 40px;
     height: 40px;
 }
 
