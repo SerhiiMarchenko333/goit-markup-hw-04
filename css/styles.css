@@ -310,6 +310,10 @@ display: flex;
         margin: 8px 16px 0px 16px;
 }
 
+.social-links-items {
+    height: 40px;
+}
+
 .social-links {
     fill: #4d5ae5;
 }
