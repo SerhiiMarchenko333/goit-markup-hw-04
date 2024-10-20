@@ -260,7 +260,6 @@ font-family: "Raleway", sans-serif;
         text-align: center;
         color: #2e2f42;
         text-transform: capitalize;
-        max-width: 162px;
         margin: 0 auto 72px auto;
 }
 
@@ -429,7 +428,6 @@ border-top: none;
 .footer-container {
     display: flex;
     width: 1158px;
-        padding-left: 156px;
         align-items: baseline;
 }
 
